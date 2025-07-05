@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: white;
+    margin-left: 20px;
+}
+div{
+    background-color: brown;
+    width: 30vw;
+    height: 50vh;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+textarea,label{
+    display: block;
+    margin-left: 20px;
+    
+    
+    
+}
+textarea{
+    border-radius: 3px;
+    width: 27vw;
+    height: 20vh;
+}
+button{
+    margin-left: 20px;
+    font-size: larger;
+    background-color: rgb(254, 167, 4);
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 5px;
+}
+label{
+    color: white;
+}
+input{
+    border-radius: 5px;
+    margin-left: 20px;
+    width: 27vw;
+}
